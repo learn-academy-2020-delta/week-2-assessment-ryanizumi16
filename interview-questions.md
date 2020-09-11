@@ -1,16 +1,11 @@
 # ASSESSMENT 2: Interview Practice Questions
+Answer the following questions.
 
-Answer the following questions. First, without external resources. Challenge yourself to answer from memory. Then, research the question to expand on your answer. Even if you feel you have answered the question completely on your own, there is always something more to learn.
+First, without external resources. Challenge yourself to answer from memory as if you were in a job interview.
 
-1. Why would you use the method super()?
+Then, research the question to expand on your answer. Even if you feel you have answered the question completely, there is always something more to learn. Write your researched answer in your OWN WORDS.
 
-  Your answer:
-
-  Researched answer:
-
-
-
-2. What is a virtual DOM?
+1. Why would you use the method `super()`?
 
   Your answer:
 
@@ -18,7 +13,15 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 
-3. When creating a basic (stateless) class component in React, what are the necessary elements needed to display "Hello World" in the browser?
+2. What is the DOM? What is the virtual DOM?
+
+  Your answer:
+
+  Researched answer:
+
+
+
+3. What is a higher-order function?
 
   Your answer:
 
@@ -34,7 +37,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 
-5. What is state in React?
+5. What is React?
 
   Your answer:
 
@@ -42,7 +45,39 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 
-6. STRETCH: What is hoisting in JavaScript?
+6. What is yarn? What file(s) are updated when you run `$ yarn`?
+
+  Your answer:
+
+  Researched answer:
+
+
+
+7. What is localhost:3000? How do we use localhost:3000 in the development process?
+
+  Your answer:
+
+  Researched answer:
+
+
+
+8. What is an iterable in JavaScript? What data types are iterables? How can this information useful to you as a developer?
+
+  Your answer:
+
+  Researched answer:
+
+
+
+9. STRETCH: What is hoisting in JavaScript?
+
+  Your answer:
+
+  Researched answer:
+
+
+
+10. STRETCH: What are closures in JavaScript?
 
   Your answer:
 
@@ -53,10 +88,9 @@ Answer the following questions. First, without external resources. Challenge you
 ## Looking Ahead: Terms for Next Week
 
 Research and define the following terms to the best of your ability.
-
+- React state
+- React props
 - React lifecycle methods
 - API
-- event.preventDefault()
+- e.preventDefault()
 - DOM events
-- http verbs
-- MVC

@@ -61,3 +61,15 @@ var vowelTester2 = "throw"
 
 // console.log(calculator(89, "/", 0))
 // Expected output: "Can't divide by 0!"
+
+
+
+// --------------------6) Create a function that takes in the following variable and returns only the websites that end in ".io".
+
+var websites = ["codepen.io", "codecademy.com", "coursera.org", "codepen.io", "udemy.com", "pluralsight.com", "udacity.com", "sitepoint.com"]
+// Expected output: "codepen.io" "codepen.io"
+
+
+
+
+// --------------------6) STRETCH: Write a function that takes a number as an argument and uses a WHILE loop to count up to that number from 0.
