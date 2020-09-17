@@ -33,30 +33,30 @@ var capNouns = []
 var stringArr
 // Expected output: ["Streetlamp", "Potato", "Teeth", "Conclusion", "Nephew", "Temperature", "Database"]
 
-// const caps = (randomNouns) => {
-//   let stringArr = randomNouns.split(" ")
-//   let capNouns = randomNouns.map(value => {
-//     return randomNouns.charAT(0).toUpperCase()
-//   })
-//   capNouns.join("")
-//     return capNouns
-// }
-// console.log(caps(capNouns))
+const caps = (randomNouns) => {
+  let stringArr = randomNouns.split(" ")
+  let capNouns = randomNouns.map(value => {
+    return randomNouns.charAT(0).toUpperCase()
+  })
+  capNouns.join("")
+    return capNouns
+}
+console.log(caps(capNouns))
 // --------------------3) Create a function that takes in the mixedDataArray array and returns an array with ONLY NUMBERS sorted from least to greatest.
 
 var mixedDataArray = [true, 8, "hello", 90, -8, null, 0, 46, 59, 107, "hey!"]
 // Expected output: [-8, 0, 8, 46, 59, 90, 107]
 var numsArr
 
-// const onlyNums = (mixedDataArray) => {
-//   numsArr = mixedDataArray.filter(value => {
-//     if(value === 'number'){
-//       return value
-//     }
-//   })
-//   return numsArr.sort()
-// }
-// console.log(onlyNums(numsArr))
+const onlyNums = (mixedDataArray) => {
+  numsArr = mixedDataArray.filter(value => {
+    if(value === 'number'){
+      return value
+    }
+  })
+  return numsArr.sort()
+}
+console.log(onlyNums(numsArr))
 
 
 
@@ -70,14 +70,14 @@ var vowelTester2 = "throw"
 // Expected output: 3
 var stringArray = []
 
-// const stringIndex = (string) => {
-//   stringArray = vowelTester1.split("")
-//   stringArray.map(index => value {
-//       if (stringArray[i] === "a" || "e" || "i" || "o" || "u"){
-//
-//
-//
-// console.log(stringIndex(stringArray))
+const stringIndex = (string) => {
+  stringArray = vowelTester1.split("")
+  stringArray.map(index => value {
+      if (stringArray[i] === "a" || "e" || "i" || "o" || "u"){
+
+
+
+console.log(stringIndex(stringArray))
 
 
 
